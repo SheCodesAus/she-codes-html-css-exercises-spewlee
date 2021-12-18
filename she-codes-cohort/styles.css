@@ -1,0 +1,74 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    margin-top: 30px;
+    display:inline-block;
+    width:100%;
+}
+
+header h1 {
+    display: inline;
+    color:rgb(211, 74, 97);
+}
+
+nav {
+    display: inline;
+    float: right;
+}
+
+nav a {
+    padding: 5px;
+    border-right: 1px solid grey;
+}
+
+nav img {
+    width: 20px;
+}
+
+main {
+    width:100%;
+    background-color: rgb(221, 221, 221);
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+
+.main_div {
+    display: block;
+}
+
+.small_div {
+    background-color: rgb(245, 245, 245);
+    margin: 5px;
+    padding: 10px;
+    display:inline-block;
+    width:30%;
+    height: 30%;
+    text-align: left;
+}
+
+.small_div img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.dog_name {
+    display: inline;
+    color: black;
+}
+
+.she_codes {
+    display: inline;
+    color: rgb(185, 185, 185)
+}
+
+.small_div h3 {
+    color: rgb(211, 74, 97);
+}
+
+footer {
+    text-align: center;
+}
