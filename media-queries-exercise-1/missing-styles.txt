@@ -1,6 +1,7 @@
 height: 200px;
 background-color: #0099ff;
 
+
 width: calc(100% / 2 - 10px);
 display: inline-block;
 
